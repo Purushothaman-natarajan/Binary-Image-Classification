@@ -1,7 +1,7 @@
 
 # Transfer Learning for Binary Classification - Cats vs Dogs
 
-Welcome to the Transfer Learning for Binary Classification GitHub repository! This project focuses on binary classification of two classes: cats and dogs, using various state-of-the-art deep learning models. The objective is to accurately classify images into either the 'cat' or 'dog' category. We have customized six base models - VGG16, VGG19, ResNet50, InceptionV3, DenseNet121, and MobileNetV2 - for this binary classification task.
+This project focuses on binary classification of two classes: cats and dogs, using various state-of-the-art deep learning models. The objective is to accurately classify images into either the 'cat' or 'dog' category. We have customized six base models - VGG16, VGG19, ResNet50, InceptionV3, DenseNet121, and MobileNetV2 - for this binary classification task.
 
 Here are the updated results of our model evaluations:
 
